@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>HONGZzIOS OFFICIAL</title>
