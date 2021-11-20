@@ -12,6 +12,7 @@
 <div class="top">
 <img src="My Channel.png">
 <h1>HONGZZIOS OFFICIAL</h1>
+<a href="https://hongzzios.github.io/VIP/"></a>
 </div>
 </a>
 <br>
