@@ -1,5 +1,5 @@
 <html><head>
-<title>LengZzIOS OFFICIAL</title>
+<title>HongZzIOS OFFICIAL</title>
 <link rel="manifest" href="manifest.json">
 <link rel="stylesheet" href="style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover minimal-ui standalone">
@@ -11,7 +11,7 @@
 <body><a href="javascript:myFunction()">
 <div class="top">
 <img src="My Channel.png">
-<h1>LengZzIOS OFFICIAL</h1>
+<h1>HongZzIOS OFFICIAL</h1>
 </div>
 </a>
 <br>
@@ -37,7 +37,7 @@
 <br>
 <div class="nav">	
 <a href="Sections" class="tab">rectangle_stack_fill</a>
-<a href="https://lengzzios.github.io/VIP/" class="tab">house_fill</a>
+<a href="https://Hongzzios.github.io/VIP/" class="tab">house_fill</a>
 <a href="Search" class="tab">search_fill</a>
 </div>
 <script>
