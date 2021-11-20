@@ -1,5 +1,5 @@
 <html><head>
-<title>HongZzIOS OFFICIAL</title>
+<title>HONGZzIOS OFFICIAL</title>
 <link rel="manifest" href="manifest.json">
 <link rel="stylesheet" href="style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover minimal-ui standalone">
@@ -11,7 +11,7 @@
 <body><a href="javascript:myFunction()">
 <div class="top">
 <img src="My Channel.png">
-<h1>HongZzIOS OFFICIAL</h1>
+<h1>HONGZzIOS OFFICIAL</h1>
 </div>
 </a>
 <br>
