@@ -35,10 +35,6 @@
 <br>
 <br>
 <br>
-<div class="nav"> 
-<a href="Sections" class="tab">rectangle_stack_fill</a>
-<a href="https://Hongzzios.github.io/VIP/" class="tab">house_fill</a>
-<a href="Search" class="tab">search_fill</a>
 </div>
 <script>
 function myFunction() {
