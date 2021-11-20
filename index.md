@@ -36,7 +36,6 @@
 <br>
 <br>
 <br>
-</div>
 <script>
 function myFunction() {
   alert("My Store Now Not Signed!😄");
