@@ -26,7 +26,7 @@
 </div>
 <div class="card-devs">
 <img src="My Channel.png">
-<h2>TELEGRAM CHANNEL</h2>
+<h2>TELEGRAM GROUP</h2>
 <p>Join us on Telegram</p>
 <a href="https://t.me//welcomethenop">Join</a>
 </div>
