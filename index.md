@@ -42,7 +42,7 @@
 </div>
 <script>
 function myFunction() {
-  alert("My Store Now Signed!😄");
+  alert("My Store Now Not Signed!😄");
 }
 </script>
 
