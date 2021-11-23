@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>HONGZzIOS OFFICIAL</title>
+<link rel='icon' href'img/hongzz.png' />
 <link rel="manifest" href="manifest.json">
 <link rel="stylesheet" href="style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover minimal-ui standalone">
