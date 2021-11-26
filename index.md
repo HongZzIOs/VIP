@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>HONGZzIOS OFFICIAL</title>
+<title>HONGZZIOS OFFICIAL</title>
 <link rel="manifest" href="manifest.json">
 <link rel="stylesheet" href="style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover minimal-ui standalone">
@@ -12,7 +12,7 @@
 <a href="javascript:myFunction()">
 <div class="top">
 <img src="My Channel.png">
-<h1>HONGZzIOS OFFICIAL</h1>
+<h1>HONGZZIOS OFFICIAL</h1>
 </div>
 </a>
 <br>
@@ -23,7 +23,7 @@
 <img src="Me.png">
 <h2>IOS DEVELOPER</h2>
 <p>IOS Developer And Owner</p>
-<a href="https://t.me//THELDOFNOP">Follow</a>
+<a href="https://t.me//theldofnop">Follow</a>
 </div>
 <div class="card-devs">
 <img src="My Channel.png">
@@ -36,6 +36,11 @@
 <br>
 <br>
 <br>
+<div class="nav">	
+<a href="Sections" class="tab">rectangle_stack_fill</a>
+<a href="https://hongzzios.github.io/VIP/" class="tab">house_fill</a>
+<a href="Search" class="tab">search_fill</a>
+</div>
 <script>
 function myFunction() {
   alert("My Store Now Not Signed!😄");
